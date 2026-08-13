@@ -2,6 +2,8 @@
 
 A Concentration-style card matching game built in Swift for iOS. Cards are laid face down on the board, and the player flips two cards at a time trying to find matching pairs. The goal is to match every pair using as few flips as possible.
 
+<img width="283" height="585" alt="Screenshot 2026-08-12 at 12 47 00" src="https://github.com/user-attachments/assets/f43607af-cb06-491e-8cb9-9a57d782ae41" />
+
 ## About
 
 Concentration (also known as Memory or Match Up) is a classic card game. In this implementation, each card starts face down. Tapping a card flips it face up. When two face-up cards are showing:
